@@ -1,0 +1,20 @@
+{
+    "Author": "amargo",
+    "ContentSize": 4320,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/scale-an-azure-service-plan-up-or-down/master/AppServicePlanScale.ps1",
+    "DownloadCount": 2118,
+    "Id": "Scale-an-Azure-Service-dc02d913",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 110,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-8-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation runbook enables vertically scaling of an Azure Service plan according to a schedule. Autoscaling based on a schedule allows you to scale your solution according to predictable resource demand.",
+    "Title": "Scale an Azure Service plan up or down",
+    "UpdatedDate": "2018-8-22T00:00:00",
+    "Url": "https://github.com/azureautomation/scale-an-azure-service-plan-up-or-down",
+    "UserTags": "Azure App Service, Scale, Scaling"
+}
